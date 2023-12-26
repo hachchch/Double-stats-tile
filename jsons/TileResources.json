@@ -3,6 +3,6 @@
                 "name": "Fertile Land",
 		"resourceType": "Bonus",
                 "terrainsCanBeFoundOn": ["Fountain of Youth","Ice","Ocean","Oasis","Coast","Lakes","Grassland","Snow","Desert","Forest","Jungle","Flood plains","Marsh","Plains","Tundra","Hill"]
-		"uniques": ["Generated on every [24] tiles"],
+		"uniques": ["Generated on every [24] tiles <in [non-[Land]] tiles>","Generated on every [8] tiles <in [Land] tiles>"]
         }
 ]
